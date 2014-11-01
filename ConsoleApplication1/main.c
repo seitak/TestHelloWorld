@@ -23,6 +23,7 @@
 int main(int argc, char* argv[])
 {
 	printf ("Hello, Workd\n");
+	printf("test1\n\n");
 
 	return 0;
 }
